@@ -1,0 +1,5 @@
+#This is the demo requirements.txt file that has the 
+#packages needed to run for proper functioning of the application
+
+
+
